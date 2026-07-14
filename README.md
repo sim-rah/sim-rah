@@ -10,25 +10,28 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FF6B9D&vCenter=true&height=35&width=680&lines=Data+Science+Undergraduate+%7C+Aspiring+ML+Engineer+%7C+Android+%26+Web+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FF6B9D&vCenter=true&height=35&width=680&lines=Data+Scientist+%7C+ML+Engineer"/>
 </div>
 
 <h3 align="center">
-| BS Data Science @ The University of Haripur | ML & Data Enthusiast | Building Real-World Solutions |
+| BS Data Science @ The University of Haripur | ML & Data Enthusiast | Building Real-World Solutions
 </h3>
-<br>
 
 <!-- ===================================================== -->
 <!-- ABOUT ME -->
 <!-- ===================================================== -->
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RncHVieGQ3OTFpeGh5YXFuNmJ0cG1qMmhmZGJ3ZnJ1Zmlsa2lzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyeheChYxx2byDu/giphy.gif"/>
+<img align="right" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanB2cnlqb29zbWszZjF3NGdmcHcycGV5ZTdiaWhyMmFrOGs5aTlyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 <h3>🧠 About Me</h3>
 
 • 🎓 Studying <b>Data Science</b> at The University of Haripur, KPK, Pakistan<br>
+
 • 🤖 Focused on <b>Machine Learning, Data Analysis & Visualization</b><br>
+
 • 📱 Building <b>Functional Android Apps</b> with modern UI/UX (ConstraintLayout, Material Design)<br>
+
 • 🌐 Exploring <b>Full-Stack Web Development</b> (React, Next.js, Node.js)<br>
+
 • 🎯 Goal: <b>Impactful ML Engineer</b> who turns data into meaningful solutions
 <br>
 
@@ -65,15 +68,12 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   </a>
-  <img src="https://cdn.simpleicons.org/scikit-learn/FF6B9D" width="45" alt="Scikit-learn"/>
+  <img src="https://cdn.simpleicons.org/scikit-learn/F7931E" width="45" alt="Scikit-learn"/>
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
   </a>
   <img src="https://cdn.simpleicons.org/googlecolab/FF6B9D" width="45" alt="Google Colab"/>
 </p>
-<p><b>Core Stack:</b> Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) • SQL • Jupyter Notebook • Google Colab<br>
-<b>Focus:</b> Supervised ML models, Feature Engineering, Data Normalization, Interactive Visualizations & Dashboards</p>
-<br>
 
 <!-- ===================================================== -->
 <!-- MOBILE DEVELOPMENT -->
@@ -88,9 +88,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
   </a>
 </p>
-<p><b>Tools & UI:</b> Android Studio • Java • XML • ConstraintLayout (chaining, bias, guidelines, barriers) • CardView • Material Design • RelativeLayout<br>
-<b>Highlights:</b> User authentication flows, GitHub-branded login screens, personalized dashboards, responsive flat view hierarchies</p>
-<br>
 
 <!-- ===================================================== -->
 <!-- WEB DEVELOPMENT -->
@@ -117,8 +114,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
   </a>
 </p>
-<p><b>Stack:</b> JavaScript • React.js • Next.js • Node.js • Express.js • TypeScript • Tailwind CSS</p>
-<br>
+
 
 <!-- ===================================================== -->
 <!-- DATABASES -->
@@ -135,9 +131,7 @@
   <img src="https://cdn.simpleicons.org/supabase/FF6B9D" width="45" alt="Supabase"/>
   <img src="https://cdn.simpleicons.org/mysql/FF6B9D" width="45" alt="SQL"/>
 </p>
-<p><b>Experience:</b> SQL (querying, database management) • PostgreSQL • MongoDB • Supabase<br>
-<b>Usage:</b> Data extraction, summarization, building SQL-backed databases for analysis & web apps</p>
-<br>
+
 
 <!-- ===================================================== -->
 <!-- DESIGN & TOOLS -->
@@ -155,11 +149,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
   </a>
   <img src="https://cdn.simpleicons.org/postman/FF6B9D" width="45" alt="Postman"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/FF6B9D" width="45" alt="Microsoft Excel"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel.png" width="45" alt="Microsoft Excel"/>
 </p>
-<p><b>Design:</b> Figma (UI/UX, typography, color theory, visual hierarchy, splash screens)<br>
-<b>Workflow:</b> Git & GitHub • Postman • Microsoft Excel • Collaborative problem-solving</p>
-<br>
 
 <!-- ===================================================== -->
 <!-- SOFT SKILLS -->
@@ -169,74 +160,11 @@
 <p>
   Problem Solving • Communication • Collaboration • Analytical Thinking • Attention to Detail
 </p>
-<br>
-
-<!-- ===================================================== -->
-<!-- WORK EXPERIENCE -->
-<!-- ===================================================== -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
-<h3>💼 Work Experience</h3>
-
-<h4>Machine Learning Intern</h4>
-<b>Arch Technologies, Islamabad</b> | Aug 2025 – Sep 2025<br>
-<a href="https://arctechnologies.pk" target="_blank">arctechnologies.pk</a>
-<ul>
-  <li>Built and tested supervised ML models using Python and Scikit-learn; improved accuracy via feature engineering and data normalization.</li>
-  <li>Extracted actionable insights from datasets to support decision-making and reporting.</li>
-</ul>
-
-<h4>Data Science & Web Design Intern</h4>
-<b>Nobel Learning PBC, Karachi</b> | Jul 2025 – Sep 2025
-<ul>
-  <li>Developed data-driven dashboards and web applications; managed and queried SQL databases.</li>
-  <li>Presented analytical findings through interactive Python visualizations for educational insights.</li>
-</ul>
-<br>
-
-<!-- ===================================================== -->
-<!-- PROJECTS -->
-<!-- ===================================================== -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
-<h3>🚀 Featured Projects</h3>
-
-<h4>Android Login & Profile App</h4>
-<b>Tech:</b> Java, XML, Android Studio
-<ul>
-  <li>Built a functional Android app with user authentication, GitHub-branded login screen, and a personalized user dashboard using RelativeLayout, CardView, and Material Design components.</li>
-</ul>
-
-<h4>NexaUI – Modern Android UI</h4>
-<b>Tech:</b> Java, XML, ConstraintLayout
-<ul>
-  <li>Recreated a professional mobile UI using ConstraintLayout (chaining, bias, guidelines, barriers) for flat view hierarchy, better performance, and responsiveness across screen sizes.</li>
-</ul>
-
-<h4>Splash Screen Design</h4>
-<b>Tech:</b> Figma
-<ul>
-  <li>Designed a polished app splash screen applying UI/UX principles: typography, color theory, and visual hierarchy.</li>
-</ul>
-
-<h4>Data Analysis & Visualization</h4>
-<b>Tech:</b> Python, Pandas, Matplotlib, Seaborn, SQL
-<ul>
-  <li>Analyzed real-world datasets, visualized trends, and built SQL-backed databases for data extraction and summarization.</li>
-</ul>
-<br>
-
-<!-- ===================================================== -->
-<!-- EDUCATION -->
-<!-- ===================================================== -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
-<h3>🎓 Education</h3>
-
-<h4>Bachelor of Science in Data Science</h4>
-<b>The University of Haripur</b>, Khyber Pakhtunkhwa, Pakistan | Oct 2023 – Oct 2027 (Expected)
-<br>
 
 <!-- ===================================================== -->
 <!-- LANGUAGES -->
 <!-- ===================================================== -->
+<br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
 <h3>🗣️ Languages</h3>
 <p>
@@ -281,7 +209,6 @@
 </p>
 <p align="center">
   <b>📍 Haripur, KPK, Pakistan</b><br>
-  <b>📞 +92 324-0079646</b>
 </p>
 <br>
 
