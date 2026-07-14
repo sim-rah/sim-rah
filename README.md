@@ -28,7 +28,7 @@
 
 • 🤖 Focused on <b>Machine Learning, Data Analysis & Visualization</b><br>
 
-• 📱 Building <b>Functional Android Apps</b> with modern UI/UX (ConstraintLayout, Material Design)<br>
+• 📱 Building <b>Functional Android Apps</b> with modern UI/UX<br>
 
 • 🌐 Exploring <b>Full-Stack Web Development</b> (React, Next.js, Node.js)<br>
 
